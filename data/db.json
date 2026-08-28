@@ -1,0 +1,18 @@
+{
+  "otps": {},
+  "labour": [],
+  "business": [],
+  "contacts": [],
+  "skills": [
+    { "value": "construction", "label": "Construction Labour", "icon": "🧱" },
+    { "value": "painter", "label": "Painter", "icon": "🎨" },
+    { "value": "electrician", "label": "Electrician", "icon": "💡" },
+    { "value": "plumber", "label": "Plumber", "icon": "🔧" },
+    { "value": "carpenter", "label": "Carpenter", "icon": "🪚" },
+    { "value": "driver", "label": "Driver", "icon": "🚗" },
+    { "value": "cook", "label": "Cook", "icon": "🍳" },
+    { "value": "cleaner", "label": "Cleaner", "icon": "🧹" },
+    { "value": "security", "label": "Security Guard", "icon": "🛡️" },
+    { "value": "farmer", "label": "Farm Labour", "icon": "🌾" }
+  ]
+}
